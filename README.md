@@ -4,14 +4,11 @@
 
 <img width="509" alt="Screenshot 2023-04-09 at 8 01 42 AM" src="https://user-images.githubusercontent.com/120140614/230771316-c7e90397-06a6-40be-afdf-bd94f1101187.png">
 
-1.Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-The variables that provided a non-random amount of variance to the mpg values are the vehicle length and the ground clearance. This is based on the p-values being lower than the expected .05. So these variables will have a significant effect on the mpg. 
+1. The variables that provided a non-random amount of variance to the mpg values are the vehicle length and the ground clearance. This is based on the p-values being lower than the expected .05. So these variables will have a significant effect on the mpg. 
 
-2.Is the slope of the linear model considered to be zero? Why or why not?
-The slope of the linear model is not zero. The p-value os 5.35e-11. This is significantly lower than 0.05. This rejects the null hypothesis that the linear model is zero or has no effect. 
+2. The slope of the linear model is not zero. The p-value os 5.35e-11. This is significantly lower than 0.05. This rejects the null hypothesis that the linear model is zero or has no effect. 
 
-3.Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-Yes, this linear model does predict the mpg. The r-squared is 0.7149, so about 71% of the mpg predictions will be determined by this model. 
+3. This linear model does predict the mpg. The r-squared is 0.7149, so about 71% of the mpg predictions will be determined by this model. 
 
 
 ## Summary Statistics on Suspension Coils
